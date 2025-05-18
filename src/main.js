@@ -10,7 +10,7 @@ document.querySelector('#app').innerHTML = `
       <img src="${viteLogo}" class="logo" alt="Vite logo" />
     </a>
     </a>
-    <h1>// We are rebranding the site //</h1>
-    <p>Actually this paragraph is pretty good!! :)</p>
+    <h1>Hello Everyone!!!</h1>
+    <p>This paragraph is <i>trash</i> bro...</p>
   </div>
 `
